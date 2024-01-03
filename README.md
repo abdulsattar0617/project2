@@ -1,2 +1,2 @@
-# Simple Project
-This project is created from local area.
+# New Project
+This project was created from local system. Created by Abdul Sattar.
